@@ -1,0 +1,5 @@
+1.create proect template by executing template.py file
+
+mongo 
+    mongodb+srv://Nirankar:<db_password>@cluster0.mrso00o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    fo2fLJVHNPiWPjgU
