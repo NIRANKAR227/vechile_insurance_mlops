@@ -24,5 +24,9 @@
 
 from src.pipline.training_pipeline import TrainPipeline
 
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning)
+
+
 pipline = TrainPipeline()
 pipline.run_pipeline()
